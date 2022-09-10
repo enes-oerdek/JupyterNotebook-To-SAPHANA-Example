@@ -1,7 +1,7 @@
 # Jupyter Notebook to SAP HANA Example
 This repository provides an easy to use example for how to connect and persist data to SAP HANA within a Jupyter Notebook. It uses the existing "to_sql" interface of DataFrames and makes easy persistence possible.
 
-##Sample Data
+## Sample Data
 The sample data comes from the [Mannheim OpenData Tool](https://mannheim.opendatasoft.com/explore/dataset/bevolkerungsbestand-in-mannheim-2009-2020/information/?disjunctive.gemeindeteilschlussel&disjunctive.gemeindeteilname&sort=-id). The dataset is licensed under [dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0).
 
 ## Dependencies

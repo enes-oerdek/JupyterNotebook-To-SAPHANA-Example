@@ -20,4 +20,6 @@ pip install hdbcli
 It is as simple as it looks. Just add your credentials into the Notebook's according variables, run it and see your persisted data in your SAP HANA instance.
 
 ## Further Information
-I documented more information about this repository and it's use case in my blog. [You can find the according blogpost here](https://enesordek.com/?p=2502) (in german).
+I documented more information about this repository and it's use case in two blog posts. 
+* [Blogpost on blogs.sap.com](https://blogs.sap.com/?p=1606107) (in english)
+* [Blogpost on my personal blog](https://enesordek.com/?p=2502) (in german).
